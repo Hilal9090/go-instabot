@@ -1,1 +1,138 @@
-Copy the config from ../dist/config.json, and put your own parameters
+{
+    "user" : {
+        "instagram" : {
+            "username" : "Tatiana.russia93",         
+            "password" : "89135004707hh"          
+        },
+        "mail" : {
+            "from" : "foo@bar.foo",        
+            "password" : "foOb@r",          
+            "to" : "Neznakomec1990.1990@gmail.com",           
+            "smtp" : "smtp.gmail.com:587",  
+            "server" : "smtp.gmail.com"     
+        }
+    },
+    "limits" : {     
+        "maxRetry" : 2,
+        "like" : {                          
+            "min" : 0,                      
+            "max" : 10000                   
+        },
+        "comment" : {                     
+            "min" : 100,                  
+            "max" : 10000                 
+        },
+        "follow" : {                        
+            "min" : 200,                    
+            "max" : 10000                   
+        }
+    },
+    "tags" : {                              
+        "kimkardashian" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "daquan" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "fuckjerry" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "thefatjewish" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "theestallion" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "meekmill" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "lilbaby_1" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "dolantwins" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "chicklet.hf" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "lilbaby_1" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "lilbaby_1" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "blameitonkway" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "9gag" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "jackwhitehall" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "sarahandersencomics" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "thegoodquote" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "jude_devir" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "hoodclips" : {                           
+            "like" : 3,                     
+            "comment" : 2,                  
+            "follow" : 1                    
+        },
+        "h3h3productions" : {                           
+            "like" : 3,
+            "comment" : 2,
+            "follow" : 1
+        }                                   
+    },
+    "comments" : [                          
+        "Cool!",
+        "Nice!", 
+        "Amazing!", 
+        "Awesome!", 
+        "Gorgeous!", 
+        "So sweet!!", 
+        "So funny!", 
+        "Fantastic!",                              
+        "Wooow!"                          
+    ]
+}
