@@ -1,0 +1,1 @@
+go-instabot -run
